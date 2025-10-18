@@ -39,3 +39,9 @@ pip install -r requirements.txt
 7. Update the pipeline
 8. Update the main.py
 9. Update the app.py
+
+### Run Application
+
+```
+python app.py
+```
