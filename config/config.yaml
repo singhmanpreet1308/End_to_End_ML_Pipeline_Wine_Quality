@@ -1,10 +1,15 @@
 artifacts_root: artifacts
 
-data_ingestion:
 
+data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: "https://github.com/singhmanpreet1308/End_to_End_ML_Pipeline_Wine_Quality/blob/main/data/winequality-red.csv"
-  local_data_file: artifacts/data_ingestion/winequality-red.csv
+  source_URL: https://github.com/entbappy/Branching-tutorial/raw/master/winequality-data.zip
+  local_data_file: artifacts/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion
+
+
+
+
 
 
 
