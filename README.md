@@ -1,6 +1,9 @@
 # End_to_End_ML_Pipeline_Wine_Quality
 
-Complete ML pipeline for wine quality prediction using scikit-learn — covers data cleaning, EDA, feature selection, model tuning, and deployment with CI/CD integration.
+Complete ML pipeline for wine quality prediction using scikit-learn — covers data cleaning, EDA, feature selection, model builidng, and deployment with AWS- CI/CD integration.
+
+![1760903411599](image/README/1760903411599.png)
+
 
 ## How to run?
 
